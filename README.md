@@ -2,9 +2,9 @@
 
 ## Funcionalidades adicionadas
 
-- **Top 5 Clientes com Maior Receita: Tabela e gráfico de barras mostrando os clientes que mais geram receita**
-- **Status das Contas a Pagar e Receber: Gráfico de barras mostrando o total de contas "Pendentes" vs "Pagas/Recebidas"**
-- **Distribuição das Contas a Pagar por Fornecedor: Gráfico de pizza ou barras mostrando os principais fornecedores e os valores devidos.**
+- **Top 5 Clientes com Maior Receita: Tabela e gráfico de barras mostrando os clientes que mais geram receita** aba Realtórios
+- **Status das Contas a Pagar e Receber: Gráfico de barras mostrando o total de contas "Pendentes" vs "Pagas/Recebidas"** aba Status Contas
+- **Distribuição das Contas a Pagar por Fornecedor: Gráfico de pizza ou barras mostrando os principais fornecedores e os valores devidos.** aba Contas a Pagar
 
 Este é uma simulaçaõ de um sistema **ERP Financeiro** simples, desenvolvido com **Streamlit** e **SQLite**, para gerenciamento de clientes, contas a pagar, contas a receber e lançamentos financeiros.
 
